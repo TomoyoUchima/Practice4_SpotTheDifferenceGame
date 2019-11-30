@@ -3,6 +3,16 @@ canvas {
   margin: 0 auto 12px;
 }
 
+.text {
+  width: 250px;
+  background-color: antiquewhite;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  padding: 3px;
+  text-align: center;
+  border-radius: 4px;
+}
+
 #replay {
   display: block;
   margin: 0 auto;
